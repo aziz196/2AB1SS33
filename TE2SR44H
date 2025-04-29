@@ -3392,7 +3392,7 @@ http://opplex.tv:8080/live/12345678910/12345678910/233080.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J6Cvpx5.jpg" group-title="DAZN SPORTS MPD",DAZN 5
 http://opplex.tv:8080/live/12345678910/12345678910/233082.ts
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CEkz3EZ.jpg" group-title="DAZN SPORTS",DAZN 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CEkz3EZ.jpg" group-title="DAZN SPORTS MPD",DAZN 6
 http://opplex.tv:8080/live/12345678910/12345678910/233084.ts
   
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ugBtJIA.jpg" group-title="DAZN SPORTS MPD", DAZN LALIGA
