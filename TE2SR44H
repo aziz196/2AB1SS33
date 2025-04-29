@@ -3558,6 +3558,70 @@ https://livetvkilatlive.applecdnstore.com/livetv/2024/USA_ESPN/index.m3u8
 
                                                            ASTRO SPORTS
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Astro_Badminton_%282024%29.png/640px-Astro_Badminton_%282024%29.png" group-title="ASTRO SPORTS",ASTRO BADMINTON
+#EXTVLCOPT:http-user-agent=OTT Navigator/grd.player (Linux;Android10) ExoPlayerLib/2.13.2
+#EXTVLCOPT:http-referrer=https://sooka.my/&user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vipgaruda.my.id/CKASTROSOOKAGARUDAPREMIUM1/ASTROBADMINTON.json
+https://vipsookaastrogogarudapremiumlivevvip1hdgqdssfugdghvdqwv7.garudatvpro.workers.dev/https://l17.dp.sooka.my/5170/linear/index.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9311.png" group-title="ASTRO SPORTS",ASTRO GRANDSTAND
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/t5GXgiW.jpg" group-title="ASTRO SPORTS", 007 ASTRO GRANDSTAND HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="ASTRO SPORTS", ASTRO FOOTBALL HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="ASTRO SPORTS", ASTRO PREMIER LEAGUE 1
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Premier League 2 HD" tvg-logo="https://i.imgur.com/Ev19Haa.jpg" group-title="ASTRO SPORTS",005 ASTRO PREMIER LEAGUE 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
+  
+#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9u9Q.png" group-title="ASTRO SPORTS",ASTRO PREMIER LEAGUE 2
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="ASTRO SPORTS", ASTRO PREMIER LEAGUE 2 HD
+https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="ASTRO SPORTS", 3 ASTRO PREMIER LEAGUE 1 AUTO
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="ASTRO SPORTS", 4 ASTRO PREMIER LEAGUE 2 AUTO
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
+#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
+
+#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9DvC.png" group-title="ASTRO SPORTS",Arena
+#EXTVLCOPT:http-user-agent=OTT Navigator/grd.player (Linux;Android10) ExoPlayerLib/2.13.2
+#EXTVLCOPT:http-referrer=https://sooka.my/&user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vipgaruda.my.id/CKASTROSOOKAGARUDAPREMIUM1/ASTROARENA.json
+https://vipsookaastrogogarudapremiumlivevvip1hdgqdssfugdghvdqwv7.garudatvpro.workers.dev/https://l03.dp.sooka.my/2604/linear/index.mpd
+
+#EXTINF:-1 tvg-id="802.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9pR8.png" group-title="ASTRO SPORTS",Arena 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/grd.player (Linux;Android10) ExoPlayerLib/2.13.2
+#EXTVLCOPT:http-referrer=https://sooka.my/&user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vipgaruda.my.id/CKASTROSOOKAGARUDAPREMIUM1/ASTROARENA2.json
+https://vipsookaastrogogarudapremiumlivevvip1hdgqdssfugdghvdqwv7.garudatvpro.workers.dev/https://l04.dp.sooka.my/5057/linear/index.mpd
+
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png?nocache=1743688231" group-title="ASTRO SPORTS", ASTRO SPORTS UHD IC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
@@ -3635,53 +3699,11 @@ https://icecream.jasoncreak8.workers.dev/https://linearjitp-playback.astro.com.m
 #KODIPROP:inputstream.adaptive.license_key=229670469469aa6f78bc5bbe10071810:3b3ede68e8bb9d0d4e3b4517c422cccf
 https://icecream.jasoncreak8.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9311.png" group-title="ASTRO SPORTS",ASTRO GRANDSTAND
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9tNX.png" group-title="ASTRO SPORTS",ASTRO FOOTBALL
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium124/mono.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="ASTRO SPORTS", ASTRO FOOTBALL HD
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="ASTRO SPORTS", ASTRO PREMIER LEAGUE 1
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9u9Q.png" group-title="ASTRO SPORTS",ASTRO PREMIER LEAGUE 2
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="ASTRO SPORTS", ASTRO PREMIER LEAGUE 2 HD
-https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20premier%20league%202.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Astro_Badminton_%282024%29.png/640px-Astro_Badminton_%282024%29.png" group-title="ASTRO SPORTS",ASTRO BADMINTON
-#EXTVLCOPT:http-user-agent=OTT Navigator/grd.player (Linux;Android10) ExoPlayerLib/2.13.2
-#EXTVLCOPT:http-referrer=https://sooka.my/&user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vipgaruda.my.id/CKASTROSOOKAGARUDAPREMIUM1/ASTROBADMINTON.json
-https://vipsookaastrogogarudapremiumlivevvip1hdgqdssfugdghvdqwv7.garudatvpro.workers.dev/https://l17.dp.sooka.my/5170/linear/index.mpd
-
-#EXTINF:-1 tvg-id="801.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9DvC.png" group-title="ASTRO SPORTS",Arena
-#EXTVLCOPT:http-user-agent=OTT Navigator/grd.player (Linux;Android10) ExoPlayerLib/2.13.2
-#EXTVLCOPT:http-referrer=https://sooka.my/&user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vipgaruda.my.id/CKASTROSOOKAGARUDAPREMIUM1/ASTROARENA.json
-https://vipsookaastrogogarudapremiumlivevvip1hdgqdssfugdghvdqwv7.garudatvpro.workers.dev/https://l03.dp.sooka.my/2604/linear/index.mpd
-
-#EXTINF:-1 tvg-id="802.astro" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9pR8.png" group-title="ASTRO SPORTS",Arena 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/grd.player (Linux;Android10) ExoPlayerLib/2.13.2
-#EXTVLCOPT:http-referrer=https://sooka.my/&user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko)
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vipgaruda.my.id/CKASTROSOOKAGARUDAPREMIUM1/ASTROARENA2.json
-https://vipsookaastrogogarudapremiumlivevvip1hdgqdssfugdghvdqwv7.garudatvpro.workers.dev/https://l04.dp.sooka.my/5057/linear/index.mpd
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png?nocache=1743688231" group-title="ASTRO SPORTS",beIN Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3703,17 +3725,6 @@ https://icecream.jasoncreak8.workers.dev/https://linearjitp-playback.astro.com.m
 
 #EXTINF:-1 tvg-id="154.astro" tvg-name="Astro Premier League 1 HD" tvg-logo="https://i.imgur.com/veerXrn.jpg" group-title="ASTRO SPORTS",004 ASTRO PREMIER LEAGUE 1 HD
 
-
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="Astro Premier League 2 HD" tvg-logo="https://i.imgur.com/Ev19Haa.jpg" group-title="ASTRO SPORTS",005 ASTRO PREMIER LEAGUE 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
-  
-#EXTINF: -1 tvg-logo="https://i.imgur.com/t5GXgiW.jpg" group-title="ASTRO SPORTS", 007 ASTRO GRANDSTAND HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="ASTRO SPORTS", 1 ASTRO GRANDSTAND AUTO
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
@@ -3725,18 +3736,6 @@ https://zekonew.newkso.ru/zeko/premium123/mono.m3u8
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://windnew.newkso.ru/wind/premium124/mono.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="ASTRO SPORTS", 3 ASTRO PREMIER LEAGUE 1 AUTO
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium125/mono.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="ASTRO SPORTS", 4 ASTRO PREMIER LEAGUE 2 AUTO
-#EXTVLCOPT:http-origin=https://webxzplay.cfd
-#EXTVLCOPT:http-referrer=https://webxzplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium126/mono.m3u8
 
 #EXTINF:-1 tvg-id="Astro.Cricket.my" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-cricket.png" group-title="ASTRO SPORTS",Astro Cricket
 #EXTVLCOPT:http-origin=https://webxzplay.cfd
@@ -3750,17 +3749,6 @@ https://zekonew.newkso.ru/zeko/premium370/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3.1 Mobile/14E304 Safari/605.1.15
 https://icecream.jasoncreak8.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
 
-#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="ASTRO SPORTS", ASTRO PREMIER LEAGUE
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; ZUPAMNZVUB) ExoPlayerLib/2.15.1
-#https://ktvindonesia.my.id/live/437516BFADCAF4471C03B52F1D346C3F/549.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA FHD" tvg-logo="https://lo1.in/MALAY/astroar.png" group-title="ASTRO SPORTS",04 ASTRO ARENA
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; ZUPAMNZVUB) ExoPlayerLib/2.15.1
-#https://ktvindonesia.my.id/live/437516BFADCAF4471C03B52F1D346C3F/545.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO ARENA BOLA 2" tvg-logo="https://lo1.in/MALAY/BOLA.png" group-title="ASTRO SPORTS",O5 ASTRO ARENA BOLA 2
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; ZUPAMNZVUB) ExoPlayerLib/2.15.1
-#https://ktvindonesia.my.id/live/437516BFADCAF4471C03B52F1D346C3F/544.ts
 
 
                                                     J SPORTS
